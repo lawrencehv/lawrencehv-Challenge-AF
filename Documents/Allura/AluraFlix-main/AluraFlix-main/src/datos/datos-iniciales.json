@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "id": "e5aa0148-1ef8-4f00-9844-f0fa21a99a3b",
+      "nombre": "Front End",
+      "descripcion": "Todos los video que estoy usando para estudiar Front End",
+      "color": "#6BD1FF",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "f08bd541-5f07-4e70-8287-1c4e380b0069b",
+      "nombre": "Back End",
+      "descripcion": "Todos los video que estoy usando para estudiar Back End",
+      "color": "#00c86f",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "6e1045ee-35b6-4923-bde1-7a0f5aece863",
+      "nombre": "Infraestructura",
+      "descripcion": "Todo lo que estoy aprendiendo sobre Docker y mucho mas",
+      "color": "#9cd33b",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "95424a38-5cd2-4c77-b567-036842c34a5f",
+      "nombre": "Marketing Digital",
+      "descripcion": "La forma de vender y monetizar mis ideas",
+      "color": "#6b5be2",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "083ecb8d-5598-4048-b593-ac0e3021c4c1",
+      "nombre": "Mobile",
+      "descripcion": "Contenido que vengo estudiando sobre React Native y Flutter",
+      "color": "#ffba05",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "6e4bf1bd-cb41-406d-9df1-978e4f84c8c3",
+      "nombre": "Innovación y Gestión",
+      "descripcion": "Como mantener el equipo felíz y mucho mas",
+      "color": "#ff8c2a",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "a3ee58f6-5046-4c45-a021-bffe6bfbd9ce",
+      "nombre": "Design & UX",
+      "descripcion": "Herramientas y técnicas que estudio sobre UX y Design",
+      "color": "#dc6ebe",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "7df1527d-c1b6-41f7-9862-d7db312684a6",
+      "nombre": "Data Science",
+      "descripcion": "Cosas de React y Python que vengo aprendiendo",
+      "color": "#9cd33b",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "02add3bd-fcaa-4272-8718-fa9d656a4786",
+      "nombre": "Café Punto Tech",
+      "descripcion": "Café Punto Tech",
+      "color": "#234185",
+      "seccode": "qwerty"
+    }
+  ],
+  "videos": [
+    {
+      "id": "37d78534-18ba-4508-948e-d85a3041150e",
+      "titulo": "Café Punto Tech #4 Realidades del Desarrollo Web: Desmitificando la Rutina",
+      "linkVideo": "https://www.youtube.com/watch?v=gWoFiJZuZPk",
+      "linkImagen": "https://img.youtube.com/vi/gWoFiJZuZPk/maxresdefault.jpg",
+      "categoria": "Café Punto Tech",
+      "descripcion": "En este episodio, exploraremos las realidades del día a día en el desarrollo web de la mano de Leonardo Jose Castillo Lacruz (Leo), un experimentado desarrollador senior. Que compartirá su experiencia y conocimientos sobre los desafíos y las satisfacciones que implica trabajar en el mundo del desarrollo de software. Además, como instructor, nos brindará una visión única sobre cómo abordar estos desafíos y cómo mantenerse actualizado en un campo tan dinámico como el desarrollo de aplicaciones.\n",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "30a9eb8e-ac07-4b97-ae53-dea6db72b42f",
+      "titulo": "Café Punto Tech #3: Explorando los Cinco Tipos de Análisis de Datos",
+      "linkVideo": "https://www.youtube.com/watch?v=CZzEVgNAKy8",
+      "linkImagen": "https://img.youtube.com/vi/CZzEVgNAKy8/maxresdefault.jpg",
+      "categoria": "Café Punto Tech",
+      "descripcion": "¿Te preguntas qué son y cómo se aplican los 5 tipos de análisis de datos? ¡No te preocupes! En este episodio, Gladys nos guiará a través de este emocionante viaje, compartiendo su experiencia y conocimientos sobre el tema.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "0e503d5c-26a2-452c-b2a5-63761701730f",
+      "titulo": "Cafe Punto Tech #2: Tips de como organizar tu rutina de estudios con IA",
+      "linkVideo": "https://www.youtube.com/watch?v=PIVI3Y6ckDA",
+      "linkImagen": "https://img.youtube.com/vi/PIVI3Y6ckDA/maxresdefault.jpg",
+      "categoria": "Café Punto Tech",
+      "descripcion": "¿Te has preguntado cómo puedes optimizar tu rutina de estudios utilizando la tecnología más avanzada?\n\n",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "4765bf4d-506c-482e-811e-466235c2c441",
+      "titulo": "CPT: Guía para comenzar tu carrera tech en 2024",
+      "linkVideo": "https://www.youtube.com/watch?v=XwBT2mtFjBE",
+      "linkImagen": "https://img.youtube.com/vi/XwBT2mtFjBE/maxresdefault.jpg",
+      "categoria": "Café Punto Tech",
+      "descripcion": "¿Sueñas con una carrera en tecnología pero no sabes por dónde empezar? ¡Este es tu momento! Únete a nosotros en este evento exclusivo: \"Guía para Comenzar tu Carrera Tech en 2024\".",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "d8814a2d-ac08-46a8-a62e-738b6684f36e",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+      "linkVideo": "https://www.youtube.com/watch?v=-Ou5c3A225k",
+      "linkImagen": "https://img.youtube.com/vi/-Ou5c3A225k/maxresdefault.jpg",
+      "categoria": "Front End",
+      "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "f4ebaa0a-162e-4da8-a571-d24f93a7c4bf",
+      "titulo": "Equipo Front End #AluraMás",
+      "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "linkImagen": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "categoria": "Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?\n\nEn este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "b2703fe1-2fd3-42d6-bed5-a0703530c8b9",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "linkImagen": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "categoria": "Front End",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "761d0fc5-00e2-44ac-afae-aa486d052b26",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "linkVideo": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "linkImagen": "https://img.youtube.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "categoria": "Back End",
+      "descripcion": "¿Quieres saber más?",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "5523b459-7182-4699-b476-998dfb8c3ffb",
+      "titulo": "De Front End a Back End con Java",
+      "linkVideo": "https://www.youtube.com/watch?v=3aK3Omo2RrU",
+      "linkImagen": "https://img.youtube.com/vi/3aK3Omo2RrU/maxresdefault.jpg",
+      "categoria": "Back End",
+      "descripcion": "En este Alura.tips nuestra instructora Genesys Rondon nos comentará un poco de como fue su experiencia dejando de trabajar con JavaScript y empezando a trabajar con Java.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "afcced08-81e0-489a-bf67-4cbef71bdef9",
+      "titulo": "¿Por qué estudiar Data Science?",
+      "linkVideo": "https://www.youtube.com/watch?v=7_UXo-aqAeM",
+      "linkImagen": "https://img.youtube.com/vi/7_UXo-aqAeM/maxresdefault.jpg",
+      "categoria": "Data Science",
+      "descripcion": "Encuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "280b2fe4-5ea6-4e2f-931f-b583fb52ee60",
+      "titulo": "Python para Data Science | Contenidos ONE",
+      "linkVideo": "https://www.youtube.com/watch?v=JMKZMa0tMhQ",
+      "linkImagen": "https://img.youtube.com/vi/JMKZMa0tMhQ/maxresdefault.jpg",
+      "categoria": "Data Science",
+      "descripcion": "¿Vamos a hablar de Phyton para ciencia de datos?\n\nEn esta serie de videos en alianza con Oracle, explicaremos y exploraremos las herramientas de Oracle, recibimos a: Santiago Cáceres, quien se desempeña como Cloud engineer en esta empresa. ",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "39129bbd-06b6-4180-b41c-5f313d33101f",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "linkImagen": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "categoria": "Design & UX",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? \n\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "0b1f6f1b-bc66-497e-97d4-4c3d8c359e6c",
+      "titulo": "¿Por qué utilizar React?",
+      "linkVideo": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "linkImagen": "https://img.youtube.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+      "categoria": "Front End",
+      "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. \nHarland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
+      "seccode": "qwerty"
+    }
+  ]
+}

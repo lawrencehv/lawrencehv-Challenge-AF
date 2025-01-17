@@ -1,0 +1,13 @@
+.carousel-container {
+    position: relative;
+    overflow: hidden;
+    padding: 0 1rem;
+}
+
+.carouselItem {
+    padding-right: 1rem;
+    /* Espaciado entre elementos */
+    margin: 0 1rem;
+    /* Margen mágico a los lados */
+    /* Agrega otros estilos mágicos aquí */
+}
